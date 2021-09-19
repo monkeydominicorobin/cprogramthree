@@ -2,12 +2,12 @@
 
 int main()
 {
-	float a = 10.1;
+	float x = 10.1;
 	//bool b = false;
-	printf("%a\n",a);
-	printf("%e\n",a);
+	printf("%a\n",x);
+	printf("%e\n",x);
 	printf("%s\n","false");
 	printf("%c\n",'t');
-	printf("%f\n",a);
+	printf("%f\n",x);
 	return 0;
 }
